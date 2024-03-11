@@ -6,3 +6,4 @@
 # Day 7 color theory and applying color combinations for different shapes 
 # Day 8 creating application page and designing application pages 
 # Day 9 prototype and animation in figma 
+# Day 10 animation and slides (vertical)
