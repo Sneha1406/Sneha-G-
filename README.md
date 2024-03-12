@@ -7,3 +7,4 @@
 # Day 8 creating application page and designing application pages 
 # Day 9 prototype and animation in figma 
 # Day 10 animation and slides (vertical)
+# Day 11 Discussed about Netflix recreation and assessment given 
